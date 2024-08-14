@@ -34,7 +34,7 @@ rsync -ap -L /lib/x86_64-linux-gnu/libglib-2.0.so.0 \
     /lib/x86_64-linux-gnu/libmount.so.1 \
     /lib/x86_64-linux-gnu/libselinux.so.1 \
     /lib/x86_64-linux-gnu/libresolv.so.2 \
-    /lib/x86_64-linux-gnu/libffi.so.7 \
+    /lib/x86_64-linux-gnu/libffi.so.8 \
     /lib/x86_64-linux-gnu/libgusb.so.2 \
     /lib/x86_64-linux-gnu/libpixman-1.so.0 \
     /lib/x86_64-linux-gnu/libm.so.6 \
